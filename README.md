@@ -2,6 +2,11 @@
 
 similar to thomas frank's impossible list, though for me it's more "stuff I'd be happy to have done on my deathbed"
 
+# Rule
+
+1. You cannot change a goal once it's been committed.
+2. You cannot change Rule 1 or Rule 2 after their first commit.
+
 ## music goals
 
 - [ ] release a 1h mix on soundcloud 
