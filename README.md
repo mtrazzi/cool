@@ -20,7 +20,8 @@ similar to thomas frank's impossible list, though for me it's more "stuff I'd be
 
 ## health goals
 
-- [ ] 12 reps with 50 kg doing bench press (assuming current bar is 20kg)
+- [X] 12 reps with 50 kg doing bench press (assuming current bar is 20kg)
+- [ ] bench 60kg
 - [ ] do a 10 days meditation course
 - [ ] weight yourself at < 21.0% fat on your current balance
 
@@ -31,4 +32,5 @@ similar to thomas frank's impossible list, though for me it's more "stuff I'd be
 - [ ] eat food in Thailand
 
 ## dating goals
-- [ ] suggest to give your number to one girl you didn't already know
+- [X] suggest to give your number to one girl you didn't already know
+- [ ] "                            " 10 "                           "
