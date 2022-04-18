@@ -14,16 +14,17 @@ similar to thomas frank's impossible list, though for me it's more "stuff I'd be
 
 ## professional goals
 
-- [ ] reach 700 followers on Twitter again (last updated: April 2nd 2022)
+- [X] reach 700 followers on Twitter again (last updated: April 2nd 2022)
 - [ ] reach 100 subscribers on Youtube
 - [ ] interview 10 people on the inside view podcast
 
 ## health goals
 
 - [X] 12 reps with 50 kg doing bench press (assuming current bar is 20kg)
-- [ ] bench 60kg
+- [ ] bench 60kg
 - [ ] do a 10 days meditation course
-- [ ] weight yourself at < 21.0% fat on your current balance
+- [X] weight yourself at < 21.0% fat on your current balance
+- [ ] same with 19%
 
 ## travel goals
 - [ ] write a tweet in San Francisco
@@ -33,4 +34,4 @@ similar to thomas frank's impossible list, though for me it's more "stuff I'd be
 
 ## dating goals
 - [X] suggest to give your number to one girl you didn't already know
-- [ ] "                            " 10 "                           "
+- [ ] same with 10
