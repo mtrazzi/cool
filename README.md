@@ -15,6 +15,7 @@ similar to thomas frank's impossible list, though for me it's more "stuff I'd be
 ## professional goals
 
 - [X] reach 700 followers on Twitter again (last updated: April 2nd 2022)
+- [ ] 800 followers
 - [ ] reach 100 subscribers on Youtube
 - [ ] interview 10 people on the inside view podcast
 
