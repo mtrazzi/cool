@@ -10,7 +10,7 @@ similar to thomas frank's impossible list, though for me it's more "stuff I'd be
 ## music goals
 
 - [ ] release a 1h mix on soundcloud 
-- [ ] mix in front of 5 people dancing
+- [X] mix in front of 5 people dancing
 
 ## professional goals
 
