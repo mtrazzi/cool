@@ -15,14 +15,17 @@ similar to thomas frank's impossible list, though for me it's more "stuff I'd be
 ## professional goals
 
 - [X] reach 700 followers on Twitter again (last updated: April 2nd 2022)
-- [ ] 800 followers
-- [ ] reach 100 subscribers on Youtube
-- [ ] interview 10 people on the inside view podcast
+- [X] 800 followers
+- [ ] 1200 followers
+- [X] reach 100 subscribers on Youtube
+- [ ] 200 subscribers
+- [X] interview 10 people on the inside view podcast
+- [ ] 20 people
 
 ## health goals
 
 - [X] 12 reps with 50 kg doing bench press (assuming current bar is 20kg)
-- [ ] bench 60kg
+- [ ] bench 60kg
 - [ ] do a 10 days meditation course
 - [X] weight yourself at < 21.0% fat on your current balance
 - [ ] same with 19%
