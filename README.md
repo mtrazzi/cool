@@ -11,16 +11,7 @@ similar to thomas frank's impossible list, though for me it's more "stuff I'd be
 
 - [ ] release a 1h mix on soundcloud 
 - [X] mix in front of 5 people dancing
-
-## professional goals
-
-- [X] reach 700 followers on Twitter again (last updated: April 2nd 2022)
-- [X] 800 followers
-- [ ] 1200 followers
-- [X] reach 100 subscribers on Youtube
-- [ ] 200 subscribers
-- [X] interview 10 people on the inside view podcast
-- [ ] 20 people
+- [ ] in front of 20 people dancing
 
 ## health goals
 
@@ -29,6 +20,16 @@ similar to thomas frank's impossible list, though for me it's more "stuff I'd be
 - [ ] do a 10 days meditation course
 - [X] weight yourself at < 21.0% fat on your current balance
 - [ ] same with 19%
+
+## podcast goals
+
+- [X] reach 700 followers on Twitter again (last updated: April 2nd 2022)
+- [X] 800 followers
+- [ ] 1200 followers
+- [X] reach 100 subscribers on Youtube
+- [ ] 200 subscribers
+- [X] interview 10 people on the inside view podcast
+- [ ] 20 people
 
 ## travel goals
 - [ ] write a tweet in San Francisco
